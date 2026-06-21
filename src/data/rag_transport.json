@@ -1,0 +1,18 @@
+{
+  "rent_car": {
+    "4_seater": 600000,
+    "7_seater": 800000,
+    "per_person_multi_stop": 150000
+  },
+  "rent_motorbike": {
+    "price_per_day": 150000
+  },
+  "grab": {
+    "car_price_per_km": 15000,
+    "motorbike_price_per_km": 6000
+  },
+  "personal": {
+    "motorbike_price_per_km": 300,
+    "car_price_per_km": 2000
+  }
+}

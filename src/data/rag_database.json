@@ -1,0 +1,877 @@
+[
+  {
+    "id": "khu_du_lich_ghenh_rang",
+    "name": "Khu du lịch Ghềnh Ráng",
+    "type": "attraction",
+    "lat": 13.7433186,
+    "lng": 109.2147633,
+    "geoAddress": {
+      "placeId": "osm_4172034894",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Khu du lịch Ghềnh Ráng",
+        "Khu du lịch Ghềnh Ráng Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 20000,
+    "recommendedHours": 4,
+    "avgCost": 300000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Khu du lịch Ghềnh Ráng, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Khu du lịch Ghềnh Ráng là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#khu_du_lich_ghenh_rang",
+      "viewsCount": "1.9M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/khu_du_lich_ghenh_rang"
+    }
+  },
+  {
+    "id": "inexpensive_banh_beo",
+    "name": "Inexpensive Bánh Bèo",
+    "type": "attraction",
+    "lat": 13.7865946,
+    "lng": 109.2107844,
+    "geoAddress": {
+      "placeId": "osm_11381050648",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Inexpensive Bánh Bèo",
+        "Inexpensive Bánh Bèo Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 150000,
+    "recommendedHours": 3,
+    "avgCost": 50000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Inexpensive Bánh Bèo, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Inexpensive Bánh Bèo là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#inexpensive_banh_beo",
+      "viewsCount": "5.3M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/inexpensive_banh_beo"
+    }
+  },
+  {
+    "id": "inexpensive_banana_fritters_and_coffee",
+    "name": "Inexpensive banana fritters and coffee",
+    "type": "attraction",
+    "lat": 13.7653243,
+    "lng": 109.2167296,
+    "geoAddress": {
+      "placeId": "osm_11383312483",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Inexpensive banana fritters and coffee",
+        "Inexpensive banana fritters and coffee Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 150000,
+    "recommendedHours": 2,
+    "avgCost": 50000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Inexpensive banana fritters and coffee, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Inexpensive banana fritters and coffee là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#inexpensive_banana_fritters_and_coffee",
+      "viewsCount": "1.2M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/inexpensive_banana_fritters_and_coffee"
+    }
+  },
+  {
+    "id": "cemetery_for_medical_celebrities",
+    "name": "Cemetery for Medical Celebrities",
+    "type": "attraction",
+    "lat": 13.7243665,
+    "lng": 109.2168809,
+    "geoAddress": {
+      "placeId": "osm_11387521567",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Cemetery for Medical Celebrities",
+        "Cemetery for Medical Celebrities Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 0,
+    "recommendedHours": 3,
+    "avgCost": 150000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Cemetery for Medical Celebrities, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Cemetery for Medical Celebrities là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#cemetery_for_medical_celebrities",
+      "viewsCount": "3.7M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/cemetery_for_medical_celebrities"
+    }
+  },
+  {
+    "id": "chua_minh_tinh",
+    "name": "Chùa Minh Tịnh",
+    "type": "attraction",
+    "lat": 13.7663284,
+    "lng": 109.2170027,
+    "geoAddress": {
+      "placeId": "osm_741576199",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Chùa Minh Tịnh",
+        "Chùa Minh Tịnh Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 150000,
+    "recommendedHours": 3,
+    "avgCost": 300000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Chùa Minh Tịnh, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Chùa Minh Tịnh là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#chua_minh_tinh",
+      "viewsCount": "4.5M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/chua_minh_tinh"
+    }
+  },
+  {
+    "id": "nga_ba_phu_tai",
+    "name": "Ngã Ba Phú Tài",
+    "type": "attraction",
+    "lat": 13.7936198,
+    "lng": 109.1482424,
+    "geoAddress": {
+      "placeId": "osm_667953368",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Ngã Ba Phú Tài",
+        "Ngã Ba Phú Tài Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 20000,
+    "recommendedHours": 3,
+    "avgCost": 500000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Ngã Ba Phú Tài, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Ngã Ba Phú Tài là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#nga_ba_phu_tai",
+      "viewsCount": "5.5M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/nga_ba_phu_tai"
+    }
+  },
+  {
+    "id": "eo_gio",
+    "name": "Eo Gio",
+    "type": "attraction",
+    "lat": 13.8908797,
+    "lng": 109.2914119,
+    "geoAddress": {
+      "placeId": "osm_4132751593",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Eo Gio",
+        "Eo Gio Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 20000,
+    "recommendedHours": 2,
+    "avgCost": 50000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Eo Gio, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Eo Gio là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#eo_gio",
+      "viewsCount": "7.2M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/eo_gio"
+    }
+  },
+  {
+    "id": "lang_bich_hoa_01",
+    "name": "Làng Bích Hoạ 01",
+    "type": "attraction",
+    "lat": 13.8853807,
+    "lng": 109.2877543,
+    "geoAddress": {
+      "placeId": "osm_7730754987",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Làng Bích Hoạ 01",
+        "Làng Bích Hoạ 01 Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 150000,
+    "recommendedHours": 2,
+    "avgCost": 50000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Làng Bích Hoạ 01, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Làng Bích Hoạ 01 là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#lang_bich_hoa_01",
+      "viewsCount": "1.1M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/lang_bich_hoa_01"
+    }
+  },
+  {
+    "id": "lang_bich_hoa_nhon_ly_02",
+    "name": "Làng bích họa Nhơn Lý 02",
+    "type": "attraction",
+    "lat": 13.885414,
+    "lng": 109.2895522,
+    "geoAddress": {
+      "placeId": "osm_11348058704",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Làng bích họa Nhơn Lý 02",
+        "Làng bích họa Nhơn Lý 02 Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 50000,
+    "recommendedHours": 1,
+    "avgCost": 300000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Làng bích họa Nhơn Lý 02, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Làng bích họa Nhơn Lý 02 là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#lang_bich_hoa_nhon_ly_02",
+      "viewsCount": "7.1M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/lang_bich_hoa_nhon_ly_02"
+    }
+  },
+  {
+    "id": "vuon_tai_che",
+    "name": "Vườn Tái Chế",
+    "type": "attraction",
+    "lat": 13.6935923,
+    "lng": 109.1177017,
+    "geoAddress": {
+      "placeId": "osm_11536736969",
+      "formattedAddress": "City, Xóm 2, Long Thành, Phước Mỹ",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Vườn Tái Chế",
+        "Vườn Tái Chế Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 20000,
+    "recommendedHours": 3,
+    "avgCost": 50000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Vườn Tái Chế, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Vườn Tái Chế là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#vuon_tai_che",
+      "viewsCount": "4.1M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/vuon_tai_che"
+    }
+  },
+  {
+    "id": "big_buddha_on_the_mountain_entrance",
+    "name": "Big Buddha on the mountain entrance",
+    "type": "attraction",
+    "lat": 13.9507059,
+    "lng": 109.2374891,
+    "geoAddress": {
+      "placeId": "osm_5595997723",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Big Buddha on the mountain entrance",
+        "Big Buddha on the mountain entrance Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 150000,
+    "recommendedHours": 1,
+    "avgCost": 300000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Big Buddha on the mountain entrance, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Big Buddha on the mountain entrance là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#big_buddha_on_the_mountain_entrance",
+      "viewsCount": "5.6M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/big_buddha_on_the_mountain_entrance"
+    }
+  },
+  {
+    "id": "tuyet_diem_salins",
+    "name": "Tuyet diem salins",
+    "type": "attraction",
+    "lat": 13.5741837,
+    "lng": 109.232488,
+    "geoAddress": {
+      "placeId": "osm_10004148417",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Tuyet diem salins",
+        "Tuyet diem salins Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 50000,
+    "recommendedHours": 1,
+    "avgCost": 500000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Tuyet diem salins, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Tuyet diem salins là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#tuyet_diem_salins",
+      "viewsCount": "7.8M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/tuyet_diem_salins"
+    }
+  },
+  {
+    "id": "vinaliving_lifestyle_clubs",
+    "name": "Vinaliving Lifestyle Clubs",
+    "type": "attraction",
+    "lat": 13.9311751,
+    "lng": 109.2428278,
+    "geoAddress": {
+      "placeId": "osm_12777647202",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Vinaliving Lifestyle Clubs",
+        "Vinaliving Lifestyle Clubs Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 0,
+    "recommendedHours": 2,
+    "avgCost": 300000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Vinaliving Lifestyle Clubs, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Vinaliving Lifestyle Clubs là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#vinaliving_lifestyle_clubs",
+      "viewsCount": "3.4M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/vinaliving_lifestyle_clubs"
+    }
+  },
+  {
+    "id": "the_thon",
+    "name": "The Thôn",
+    "type": "attraction",
+    "lat": 13.9809186,
+    "lng": 109.2478855,
+    "geoAddress": {
+      "placeId": "osm_12848915702",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "The Thôn",
+        "The Thôn Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 0,
+    "recommendedHours": 2,
+    "avgCost": 50000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại The Thôn, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, The Thôn là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#the_thon",
+      "viewsCount": "1.2M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/the_thon"
+    }
+  },
+  {
+    "id": "thac_cay_u",
+    "name": "Thác Cây Đu",
+    "type": "attraction",
+    "lat": 13.4887804,
+    "lng": 109.1785099,
+    "geoAddress": {
+      "placeId": "osm_5841472185",
+      "formattedAddress": "644",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Thác Cây Đu",
+        "Thác Cây Đu Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 20000,
+    "recommendedHours": 3,
+    "avgCost": 300000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Thác Cây Đu, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Thác Cây Đu là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#thac_cay_u",
+      "viewsCount": "5.4M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/thac_cay_u"
+    }
+  },
+  {
+    "id": "dong_muoi_song_cau_salins",
+    "name": "Dong muoi song Cau salins",
+    "type": "attraction",
+    "lat": 13.4902487,
+    "lng": 109.2478759,
+    "geoAddress": {
+      "placeId": "osm_10004148517",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Dong muoi song Cau salins",
+        "Dong muoi song Cau salins Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 0,
+    "recommendedHours": 3,
+    "avgCost": 300000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Dong muoi song Cau salins, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Dong muoi song Cau salins là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#dong_muoi_song_cau_salins",
+      "viewsCount": "8.9M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/dong_muoi_song_cau_salins"
+    }
+  },
+  {
+    "id": "khu_du_lich_ham_ho",
+    "name": "Khu du lịch Hầm Hô",
+    "type": "attraction",
+    "lat": 13.8812779,
+    "lng": 108.8758198,
+    "geoAddress": {
+      "placeId": "osm_1682705322",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Khu du lịch Hầm Hô",
+        "Khu du lịch Hầm Hô Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 20000,
+    "recommendedHours": 4,
+    "avgCost": 300000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Khu du lịch Hầm Hô, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Khu du lịch Hầm Hô là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#khu_du_lich_ham_ho",
+      "viewsCount": "9.1M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/khu_du_lich_ham_ho"
+    }
+  },
+  {
+    "id": "ga_la_hai",
+    "name": "Ga La Hai",
+    "type": "attraction",
+    "lat": 13.3817999,
+    "lng": 109.1059922,
+    "geoAddress": {
+      "placeId": "osm_5406330126",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Ga La Hai",
+        "Ga La Hai Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 20000,
+    "recommendedHours": 1,
+    "avgCost": 50000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Ga La Hai, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Ga La Hai là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#ga_la_hai",
+      "viewsCount": "6.1M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/ga_la_hai"
+    }
+  },
+  {
+    "id": "nhat_tu_son",
+    "name": "Nhất Tự Sơn",
+    "type": "attraction",
+    "lat": 13.4208073,
+    "lng": 109.2251028,
+    "geoAddress": {
+      "placeId": "osm_5984618286",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Nhất Tự Sơn",
+        "Nhất Tự Sơn Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 20000,
+    "recommendedHours": 1,
+    "avgCost": 300000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Nhất Tự Sơn, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Nhất Tự Sơn là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#nhat_tu_son",
+      "viewsCount": "4.2M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/nhat_tu_son"
+    }
+  },
+  {
+    "id": "coral_island",
+    "name": "Coral Island",
+    "type": "attraction",
+    "lat": 13.3802946,
+    "lng": 109.2811746,
+    "geoAddress": {
+      "placeId": "osm_6084021486",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Coral Island",
+        "Coral Island Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 150000,
+    "recommendedHours": 4,
+    "avgCost": 50000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Coral Island, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Coral Island là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#coral_island",
+      "viewsCount": "3.1M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/coral_island"
+    }
+  },
+  {
+    "id": "bai_om",
+    "name": "Bai Om",
+    "type": "attraction",
+    "lat": 13.4130962,
+    "lng": 109.2998237,
+    "geoAddress": {
+      "placeId": "osm_7142747685",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Bai Om",
+        "Bai Om Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 50000,
+    "recommendedHours": 2,
+    "avgCost": 150000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Bai Om, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Bai Om là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#bai_om",
+      "viewsCount": "2.5M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/bai_om"
+    }
+  },
+  {
+    "id": "ap_dang_van_phong",
+    "name": "Đập Dâng Văn Phong",
+    "type": "attraction",
+    "lat": 13.9391907,
+    "lng": 108.8744587,
+    "geoAddress": {
+      "placeId": "osm_233480579",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Đập Dâng Văn Phong",
+        "Đập Dâng Văn Phong Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 150000,
+    "recommendedHours": 2,
+    "avgCost": 300000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Đập Dâng Văn Phong, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Đập Dâng Văn Phong là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#ap_dang_van_phong",
+      "viewsCount": "9.2M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/ap_dang_van_phong"
+    }
+  },
+  {
+    "id": "an_te_troi_at_tay_son",
+    "name": "Đàn tế Trời Đất - Tây Sơn",
+    "type": "attraction",
+    "lat": 13.9174387,
+    "lng": 108.8647562,
+    "geoAddress": {
+      "placeId": "osm_249510510",
+      "formattedAddress": "19",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Đàn tế Trời Đất - Tây Sơn",
+        "Đàn tế Trời Đất - Tây Sơn Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 0,
+    "recommendedHours": 4,
+    "avgCost": 500000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Đàn tế Trời Đất - Tây Sơn, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Đàn tế Trời Đất - Tây Sơn là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#an_te_troi_at_tay_son",
+      "viewsCount": "4.3M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/an_te_troi_at_tay_son"
+    }
+  },
+  {
+    "id": "ham_ho",
+    "name": "Hầm Hô",
+    "type": "attraction",
+    "lat": 13.8715412,
+    "lng": 108.8624159,
+    "geoAddress": {
+      "placeId": "osm_249516977",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Hầm Hô",
+        "Hầm Hô Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 150000,
+    "recommendedHours": 2,
+    "avgCost": 150000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Hầm Hô, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Hầm Hô là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#ham_ho",
+      "viewsCount": "8.8M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/ham_ho"
+    }
+  },
+  {
+    "id": "beach",
+    "name": "Beach",
+    "type": "attraction",
+    "lat": 13.288431,
+    "lng": 109.2967129,
+    "geoAddress": {
+      "placeId": "osm_5325163021",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Beach",
+        "Beach Quy Nhơn",
+        "Du lịch Quy Nhơn"
+      ]
+    },
+    "isIndoor": false,
+    "ticketPrice": 0,
+    "recommendedHours": 2,
+    "avgCost": 300000,
+    "disasterAlternativeId": "bao_tang_quang_trung",
+    "pros": "Trải nghiệm tuyệt vời tại Beach, không gian đậm chất Quy Nhơn.",
+    "cons": "Có thể đông đúc vào cuối tuần.",
+    "description": "Nằm tại Quy Nhơn, Beach là điểm đến đáng chú ý.",
+    "socialBuzz": {
+      "hashtag": "#beach",
+      "viewsCount": "8.6M",
+      "vibeDescription": "Địa điểm check-in phổ biến, nhiều review tích cực.",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/beach"
+    }
+  }
+]

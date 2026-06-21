@@ -1,0 +1,892 @@
+[
+  {
+    "id": "khach_san_sai_gon_quy_nhon",
+    "name": "Khách sạn Sài Gòn Quy Nhơn",
+    "type": "hotel",
+    "lat": 13.7709541,
+    "lng": 109.2342493,
+    "geoAddress": {
+      "placeId": "osm_1527934304",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Khách sạn Sài Gòn Quy Nhơn",
+        "Khách sạn Sài Gòn Quy Nhơn Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 2000000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "Khách sạn Sài Gòn Quy Nhơn tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#khach_san_sai_gon_quy_nhon",
+      "viewsCount": "5.9M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/khach_san_sai_gon_quy_nhon"
+    }
+  },
+  {
+    "id": "hoang_huy",
+    "name": "Hoang Huy",
+    "type": "hotel",
+    "lat": 13.7481253,
+    "lng": 109.2139628,
+    "geoAddress": {
+      "placeId": "osm_1747794983",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Hoang Huy",
+        "Hoang Huy Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 2000000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "Hoang Huy tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#hoang_huy",
+      "viewsCount": "5.2M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/hoang_huy"
+    }
+  },
+  {
+    "id": "hai_huong_hotel",
+    "name": "Hai Huong Hotel",
+    "type": "hotel",
+    "lat": 13.7519796,
+    "lng": 109.2108259,
+    "geoAddress": {
+      "placeId": "osm_2175314586",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Hai Huong Hotel",
+        "Hai Huong Hotel Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 1500000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "Hai Huong Hotel tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#hai_huong_hotel",
+      "viewsCount": "3.3M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/hai_huong_hotel"
+    }
+  },
+  {
+    "id": "y_linh",
+    "name": "Ý Linh",
+    "type": "hotel",
+    "lat": 13.7710378,
+    "lng": 109.2359423,
+    "geoAddress": {
+      "placeId": "osm_4119717538",
+      "formattedAddress": "Nguyễn Huệ",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Ý Linh",
+        "Nguyễn Huệ",
+        "Ý Linh Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 800000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "Ý Linh tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#y_linh",
+      "viewsCount": "3.6M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/y_linh"
+    }
+  },
+  {
+    "id": "thanh_linh_1",
+    "name": "Thanh Linh 1",
+    "type": "hotel",
+    "lat": 13.7643505,
+    "lng": 109.2233548,
+    "geoAddress": {
+      "placeId": "osm_4186813390",
+      "formattedAddress": "Nguyễn Huệ",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Thanh Linh 1",
+        "Nguyễn Huệ",
+        "Thanh Linh 1 Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 1500000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "Thanh Linh 1 tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#thanh_linh_1",
+      "viewsCount": "5.6M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/thanh_linh_1"
+    }
+  },
+  {
+    "id": "aurora_villas",
+    "name": "Aurora Villas",
+    "type": "hotel",
+    "lat": 13.7116104,
+    "lng": 109.2213567,
+    "geoAddress": {
+      "placeId": "osm_4186815889",
+      "formattedAddress": "Quốc lộ 1D",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Aurora Villas",
+        "Quốc lộ 1D",
+        "Aurora Villas Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 800000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "Aurora Villas tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#aurora_villas",
+      "viewsCount": "5.5M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/aurora_villas"
+    }
+  },
+  {
+    "id": "hong_kong_hotel",
+    "name": "Hong Kong Hotel",
+    "type": "hotel",
+    "lat": 13.7534231,
+    "lng": 109.2098915,
+    "geoAddress": {
+      "placeId": "osm_4283665790",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Hong Kong Hotel",
+        "Hong Kong Hotel Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 1200000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "Hong Kong Hotel tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#hong_kong_hotel",
+      "viewsCount": "6.7M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/hong_kong_hotel"
+    }
+  },
+  {
+    "id": "hoang_nam_ks_good",
+    "name": "Hoàng Nam ks good",
+    "type": "hotel",
+    "lat": 13.7620479,
+    "lng": 109.2187995,
+    "geoAddress": {
+      "placeId": "osm_4324803393",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Hoàng Nam ks good",
+        "Hoàng Nam ks good Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 2000000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "Hoàng Nam ks good tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#hoang_nam_ks_good",
+      "viewsCount": "2.9M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/hoang_nam_ks_good"
+    }
+  },
+  {
+    "id": "6_co",
+    "name": "6 cò",
+    "type": "hotel",
+    "lat": 13.7905793,
+    "lng": 109.2005657,
+    "geoAddress": {
+      "placeId": "osm_4380622192",
+      "formattedAddress": "Bùi Cầm Hồ",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "6 cò",
+        "Bùi Cầm Hồ",
+        "6 cò Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 2000000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "6 cò tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#6_co",
+      "viewsCount": "5.6M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/6_co"
+    }
+  },
+  {
+    "id": "khach_san_bao_ngan",
+    "name": "Khách Sạn Bảo Ngân",
+    "type": "hotel",
+    "lat": 13.7424788,
+    "lng": 109.211134,
+    "geoAddress": {
+      "placeId": "osm_4712562089",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Khách Sạn Bảo Ngân",
+        "Khách Sạn Bảo Ngân Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 1500000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "Khách Sạn Bảo Ngân tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#khach_san_bao_ngan",
+      "viewsCount": "7.2M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/khach_san_bao_ngan"
+    }
+  },
+  {
+    "id": "haven",
+    "name": "Haven",
+    "type": "hotel",
+    "lat": 13.6858629,
+    "lng": 109.2312648,
+    "geoAddress": {
+      "placeId": "osm_4747179692",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Haven",
+        "Haven Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 1200000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "Haven tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#haven",
+      "viewsCount": "8.6M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/haven"
+    }
+  },
+  {
+    "id": "phuong_ong",
+    "name": "Phương Đông",
+    "type": "hotel",
+    "lat": 13.7615473,
+    "lng": 109.2191105,
+    "geoAddress": {
+      "placeId": "osm_5261731921",
+      "formattedAddress": "Ngô Mây",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Phương Đông",
+        "Ngô Mây",
+        "Phương Đông Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 800000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "Phương Đông tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#phuong_ong",
+      "viewsCount": "5.8M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/phuong_ong"
+    }
+  },
+  {
+    "id": "happy_smile_homestay",
+    "name": "Happy Smile Homestay",
+    "type": "hotel",
+    "lat": 13.7448944,
+    "lng": 109.2099733,
+    "geoAddress": {
+      "placeId": "osm_5616924526",
+      "formattedAddress": "Chế Lan Viên",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Happy Smile Homestay",
+        "Chế Lan Viên",
+        "Happy Smile Homestay Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 2000000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "Happy Smile Homestay tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#happy_smile_homestay",
+      "viewsCount": "7.9M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/happy_smile_homestay"
+    }
+  },
+  {
+    "id": "hung_thinh_hotel",
+    "name": "Hung Thinh Hotel",
+    "type": "hotel",
+    "lat": 13.7515131,
+    "lng": 109.2092177,
+    "geoAddress": {
+      "placeId": "osm_6296903385",
+      "formattedAddress": "Võ Liệu",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Hung Thinh Hotel",
+        "Võ Liệu",
+        "Hung Thinh Hotel Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 1500000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "Hung Thinh Hotel tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#hung_thinh_hotel",
+      "viewsCount": "5.0M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/hung_thinh_hotel"
+    }
+  },
+  {
+    "id": "flc_city_hotel",
+    "name": "FLC City Hotel",
+    "type": "hotel",
+    "lat": 13.7543427,
+    "lng": 109.2166518,
+    "geoAddress": {
+      "placeId": "osm_6536140588",
+      "formattedAddress": "Lý Thái Tổ",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "FLC City Hotel",
+        "Lý Thái Tổ",
+        "FLC City Hotel Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 800000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "FLC City Hotel tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#flc_city_hotel",
+      "viewsCount": "8.0M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/flc_city_hotel"
+    }
+  },
+  {
+    "id": "ngoc_quy_mini_house",
+    "name": "Ngoc Quy Mini House",
+    "type": "hotel",
+    "lat": 13.7682935,
+    "lng": 109.2245588,
+    "geoAddress": {
+      "placeId": "osm_7283446743",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Ngoc Quy Mini House",
+        "Ngoc Quy Mini House Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 2000000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "Ngoc Quy Mini House tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#ngoc_quy_mini_house",
+      "viewsCount": "3.4M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/ngoc_quy_mini_house"
+    }
+  },
+  {
+    "id": "tms_quy_nhon_home_o_ay!",
+    "name": "TMS Quy Nhơn - Home ở đây!",
+    "type": "hotel",
+    "lat": 13.7701725,
+    "lng": 109.232875,
+    "geoAddress": {
+      "placeId": "osm_10846759424",
+      "formattedAddress": "Trần Hưng Đạo",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "TMS Quy Nhơn - Home ở đây!",
+        "Trần Hưng Đạo",
+        "TMS Quy Nhơn - Home ở đây! Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 800000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "TMS Quy Nhơn - Home ở đây! tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#tms_quy_nhon_home_o_ay!",
+      "viewsCount": "8.1M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/tms_quy_nhon_home_o_ay!"
+    }
+  },
+  {
+    "id": "mento_hotel",
+    "name": "Mento Hotel",
+    "type": "hotel",
+    "lat": 13.7640121,
+    "lng": 109.2232555,
+    "geoAddress": {
+      "placeId": "osm_11105099405",
+      "formattedAddress": "Nguyễn Huệ",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Mento Hotel",
+        "Nguyễn Huệ",
+        "Mento Hotel Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 1500000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "Mento Hotel tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#mento_hotel",
+      "viewsCount": "5.7M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/mento_hotel"
+    }
+  },
+  {
+    "id": "fleur_de_lys_hotel_quy_nhon",
+    "name": "Fleur De Lys Hotel Quy Nhon",
+    "type": "hotel",
+    "lat": 13.7711276,
+    "lng": 109.236212,
+    "geoAddress": {
+      "placeId": "osm_11105108805",
+      "formattedAddress": "TP. Quy Nhơn, Bình Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Fleur De Lys Hotel Quy Nhon",
+        "Fleur De Lys Hotel Quy Nhon Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 1200000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "Fleur De Lys Hotel Quy Nhon tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#fleur_de_lys_hotel_quy_nhon",
+      "viewsCount": "7.8M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/fleur_de_lys_hotel_quy_nhon"
+    }
+  },
+  {
+    "id": "st_apartment_flc_seatower",
+    "name": "ST Apartment - FLC SeaTower",
+    "type": "hotel",
+    "lat": 13.7556827,
+    "lng": 109.2150219,
+    "geoAddress": {
+      "placeId": "osm_11919070316",
+      "formattedAddress": "Nguyen Trung Tin",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "ST Apartment - FLC SeaTower",
+        "Nguyen Trung Tin",
+        "ST Apartment - FLC SeaTower Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 2000000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "ST Apartment - FLC SeaTower tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#st_apartment_flc_seatower",
+      "viewsCount": "6.0M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/st_apartment_flc_seatower"
+    }
+  },
+  {
+    "id": "moon's_house",
+    "name": "Moon's house",
+    "type": "hotel",
+    "lat": 13.7658626,
+    "lng": 109.2186635,
+    "geoAddress": {
+      "placeId": "osm_12372782001",
+      "formattedAddress": "Vũ Bảo",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Moon's house",
+        "Vũ Bảo",
+        "Moon's house Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 1500000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "Moon's house tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#moon's_house",
+      "viewsCount": "2.2M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/moon's_house"
+    }
+  },
+  {
+    "id": "mytran_homestayhauloan",
+    "name": "MyTran Homestay-HauLoan",
+    "type": "hotel",
+    "lat": 13.8117679,
+    "lng": 109.2213959,
+    "geoAddress": {
+      "placeId": "osm_12661915503",
+      "formattedAddress": "16",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "MyTran Homestay-HauLoan",
+        "MyTran Homestay-HauLoan Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 1200000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "MyTran Homestay-HauLoan tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#mytran_homestayhauloan",
+      "viewsCount": "2.5M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/mytran_homestayhauloan"
+    }
+  },
+  {
+    "id": "lamor_boutique_hotel",
+    "name": "L’Amor Boutique Hotel",
+    "type": "hotel",
+    "lat": 13.7552093,
+    "lng": 109.2127409,
+    "geoAddress": {
+      "placeId": "osm_12662543602",
+      "formattedAddress": "Nguyễn Thị Định",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "L’Amor Boutique Hotel",
+        "Nguyễn Thị Định",
+        "L’Amor Boutique Hotel Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 1200000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "L’Amor Boutique Hotel tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#lamor_boutique_hotel",
+      "viewsCount": "3.3M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/lamor_boutique_hotel"
+    }
+  },
+  {
+    "id": "hata_hotel",
+    "name": "Hata Hotel",
+    "type": "hotel",
+    "lat": 13.7638028,
+    "lng": 109.218636,
+    "geoAddress": {
+      "placeId": "osm_12894118001",
+      "formattedAddress": "Nguyễn Nhạc",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Hata Hotel",
+        "Nguyễn Nhạc",
+        "Hata Hotel Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 1200000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "Hata Hotel tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#hata_hotel",
+      "viewsCount": "1.4M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/hata_hotel"
+    }
+  },
+  {
+    "id": "nha_nghi_thai_chau",
+    "name": "Nhà nghỉ Thái Châu",
+    "type": "hotel",
+    "lat": 13.7722452,
+    "lng": 109.2361295,
+    "geoAddress": {
+      "placeId": "osm_13587412302",
+      "formattedAddress": "Nhà nghỉ Thái Châu",
+      "administrativeLevels": {
+        "level1": "Bình Định",
+        "level2": "Quy Nhơn"
+      },
+      "searchKeywords": [
+        "Nhà nghỉ Thái Châu",
+        "Nhà nghỉ Thái Châu",
+        "Nhà nghỉ Thái Châu Quy Nhơn",
+        "Quy Nhơn hotel"
+      ]
+    },
+    "isIndoor": true,
+    "ticketPrice": 0,
+    "recommendedHours": 0,
+    "avgCost": 1200000,
+    "disasterAlternativeId": null,
+    "pros": "Vị trí thuận tiện, dịch vụ tiện nghi, nhiều lựa chọn ăn uống xung quanh.",
+    "cons": "Giá có thể cao vào mùa cao điểm.",
+    "description": "Nhà nghỉ Thái Châu tọa lạc tại Quy Nhơn, phù hợp cho du khách muốn ở gần trung tâm hoặc biển.",
+    "socialBuzz": {
+      "hashtag": "#nha_nghi_thai_chau",
+      "viewsCount": "6.1M",
+      "vibeDescription": "Không gian nghỉ dưỡng, phù hợp cho cả gia đình và cặp đôi.",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3",
+      "tiktokLink": "https://www.tiktok.com/tag/nha_nghi_thai_chau"
+    }
+  }
+]
