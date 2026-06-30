@@ -96,6 +96,7 @@ function App() {
         }
         finalItinerary.push({
           date: dateStr,
+          hotelId: hotelId,
           activities: todayActs
         });
       }

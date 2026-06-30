@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import type { SurveyDTO } from '../../types/dto';
 import { generateItinerary } from '../../services/geminiService';
 import ragDatabase from '../../data';

@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import type { LocationKnowledgeDTO, SurveyDTO } from '../../types/dto';
 import ragDatabase from '../../data';
 import ragHotel from '../../data/rag_hotel.json';
@@ -41,7 +41,6 @@ export default function Step3Negotiation({ survey, onNext, onBack, selectedDesti
 
   const numPeople = (survey.who?.adults || 0) + (survey.who?.children || 0) || 2;
   const hotelRooms = Math.ceil(numPeople / 4);
-  const getVehicles = (seats: number) => Math.ceil(numPeople / seats);
 
   // Calculate scores and ranks
   const hotelScores = useMemo(() => {
@@ -113,8 +112,8 @@ export default function Step3Negotiation({ survey, onNext, onBack, selectedDesti
     const withinBudgetList = rawScores.filter(s => s.withinBudget);
     const outOfBudgetList = rawScores.filter(s => !s.withinBudget).sort((a,b) => a.totalNegotiationCost - b.totalNegotiationCost);
 
-    let bestChoice = null;
-    let economyChoice = null;
+    let bestChoice: typeof rawScores[0] | null = null;
+    let economyChoice: typeof rawScores[0] | null = null;
 
     if (withinBudgetList.length > 0) {
       const sortedByMatch = [...withinBudgetList].sort((a, b) => {
@@ -240,13 +239,21 @@ export default function Step3Negotiation({ survey, onNext, onBack, selectedDesti
           <div className="text-2xl font-black tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-[#ff0050] to-rose-600">
             VIVUAGENT
           </div>
-          <button 
-            onClick={() => chosenHotelId && onNext(chosenHotelId)}
-            disabled={!chosenHotelId || isCalculating}
-            className={`px-8 py-3 rounded-xl font-black text-lg tracking-wider transition-all ${!chosenHotelId || isCalculating ? 'bg-[#333] text-gray-500 cursor-not-allowed' : 'bg-gradient-to-r from-[#ff0050] to-rose-600 hover:scale-105 shadow-[0_0_30px_rgba(255,0,80,0.4)]'}`}
-          >
-            TIẾN HÀNH LÊN LỊCH TRÌNH ➔
-          </button>
+          <div className="flex gap-2">
+            <button 
+              onClick={onBack}
+              className="px-6 py-3 bg-[#222] hover:bg-[#333] border border-[#444] rounded-xl font-bold text-gray-300 transition-colors"
+            >
+              Quay lại
+            </button>
+            <button 
+              onClick={() => chosenHotelId && onNext(chosenHotelId)}
+              disabled={!chosenHotelId || isCalculating}
+              className={`px-8 py-3 rounded-xl font-black text-lg tracking-wider transition-all ${!chosenHotelId || isCalculating ? 'bg-[#333] text-gray-500 cursor-not-allowed' : 'bg-gradient-to-r from-[#ff0050] to-rose-600 hover:scale-105 shadow-[0_0_30px_rgba(255,0,80,0.4)]'}`}
+            >
+              TIẾN HÀNH LÊN LỊCH TRÌNH ➔
+            </button>
+          </div>
         </div>
       </div>
 

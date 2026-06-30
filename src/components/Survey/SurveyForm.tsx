@@ -1,10 +1,10 @@
 import { useState, useMemo } from 'react';
-import type { SurveyDTO, LocationKnowledgeDTO } from '../../types/dto';
+import type { LocationKnowledgeDTO } from '../../types/dto';
 import ragDatabase from '../../data';
 import GoogleMapViewer from '../Map/GoogleMapViewer';
 
 interface SurveyFormProps {
-  onSubmit: (survey: SurveyDTO) => void;
+  onSubmit: (survey: any) => void;
   isLoading: boolean;
 }
 
@@ -18,7 +18,7 @@ const TAG_OPTIONS = [
 ];
 
 export default function SurveyForm({ onSubmit, isLoading }: SurveyFormProps) {
-  const [survey, setSurvey] = useState<SurveyDTO>({
+  const [survey, setSurvey] = useState<{ destinations: string[]; budget: string; transport: string; startDate: string; endDate: string; who: { adults: number; children: number; infants: number; pets: number }; tags: string[] }>({
     destinations: [],
     budget: 'comfort',
     transport: 'car',
@@ -40,15 +40,15 @@ export default function SurveyForm({ onSubmit, isLoading }: SurveyFormProps) {
   }, [searchQuery, survey.destinations]);
 
   const selectedLocations = useMemo(() => {
-    return survey.destinations.map(id => ragDatabase.find(p => p.id === id)).filter(Boolean) as LocationKnowledgeDTO[];
+    return survey.destinations.map((id: string) => ragDatabase.find(p => p.id === id)).filter(Boolean) as LocationKnowledgeDTO[];
   }, [survey.destinations]);
 
   const mapCenter = selectedLocations.length > 0 
     ? { lat: selectedLocations[0].lat, lng: selectedLocations[0].lng }
     : { lat: 13.7634, lng: 109.2235 };
 
-  const handleCounter = (key: keyof SurveyDTO['who'], delta: number) => {
-    setSurvey(prev => ({
+  const handleCounter = (key: keyof typeof survey.who, delta: number) => {
+    setSurvey((prev) => ({
       ...prev,
       who: {
         ...prev.who,
@@ -58,19 +58,19 @@ export default function SurveyForm({ onSubmit, isLoading }: SurveyFormProps) {
   };
 
   const toggleTag = (tag: string) => {
-    setSurvey(prev => ({
+    setSurvey((prev) => ({
       ...prev,
-      tags: prev.tags.includes(tag) ? prev.tags.filter(t => t !== tag) : [...prev.tags, tag]
+      tags: prev.tags.includes(tag) ? prev.tags.filter((t: string) => t !== tag) : [...prev.tags, tag]
     }));
   };
 
   const addDestination = (id: string) => {
-    setSurvey(prev => ({ ...prev, destinations: [...prev.destinations, id] }));
+    setSurvey((prev) => ({ ...prev, destinations: [...prev.destinations, id] }));
     setSearchQuery('');
   };
 
   const removeDestination = (id: string) => {
-    setSurvey(prev => ({ ...prev, destinations: prev.destinations.filter(d => d !== id) }));
+    setSurvey((prev) => ({ ...prev, destinations: prev.destinations.filter((d: string) => d !== id) }));
   };
 
   const totalPeople = survey.who.adults + survey.who.children + survey.who.infants;

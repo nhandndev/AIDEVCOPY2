@@ -1,4 +1,4 @@
-import React, { useState, useMemo, useEffect } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import type { LocationKnowledgeDTO, SurveyDTO } from '../../types/dto';
 import ragDatabase from '../../data';
 import ragTransport from '../../data/rag_transport.json';
@@ -170,7 +170,7 @@ export default function Step2Picker({ onNext, onBack, initialData, surveyData }:
           let next = [...prev];
           
           if (Array.isArray(response.removeLocationIds)) {
-             const toRemove = response.removeLocationIds.map(idOrName => {
+             const toRemove = response.removeLocationIds.map((idOrName: string) => {
                const found = mapLocations.find(l => l.id === idOrName || l.name.toLowerCase() === idOrName.toLowerCase());
                return found ? found.id : null;
              }).filter(Boolean);
@@ -178,7 +178,7 @@ export default function Step2Picker({ onNext, onBack, initialData, surveyData }:
           }
 
           if (Array.isArray(response.addLocationIds)) {
-             const toAdd = response.addLocationIds.map(idOrName => {
+             const toAdd = response.addLocationIds.map((idOrName: string) => {
                const found = mapLocations.find(l => l.id === idOrName || l.name.toLowerCase() === idOrName.toLowerCase());
                return found ? found.id : null;
              }).filter(Boolean) as string[];

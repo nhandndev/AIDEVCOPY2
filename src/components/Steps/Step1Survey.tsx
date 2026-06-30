@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import type { SurveyDTO } from '../../types/dto';
 import { chatWithSurveyAgent } from '../../services/geminiService';
 
@@ -9,7 +9,9 @@ interface Step1Props {
 
 export default function Step1Survey({ onNext, initialData }: Step1Props) {
   const [budget, setBudget] = useState<number>(initialData.budget !== undefined ? Number(initialData.budget) : 0);
-  const [transport, setTransport] = useState<'personal' | 'rent' | 'grab' | ''>(initialData.transport || '');
+  const [transport, setTransport] = useState<
+    'personal_motorbike' | 'personal_car' | 'rent_motorbike' | 'rent_car' | 'grab_motorbike' | 'grab_car' | ''
+  >(initialData.transport || '');
 
   // Default dates: tomorrow to +3 days
   const tomorrow = new Date();
@@ -31,7 +33,7 @@ export default function Step1Survey({ onNext, initialData }: Step1Props) {
   const [who, setWho] = useState(initialData.who || { adults: 0, children: 0, infants: 0, pets: 0 });
   const [tags, setTags] = useState<string[]>(initialData.tags || []);
   const [numLocations, setNumLocations] = useState<number>(initialData.numLocations || 0);
-  const [errors, setErrors] = useState<{ budget?: boolean, who?: boolean }>({});
+  const [errors, setErrors] = useState<{ budget?: boolean, who?: boolean, transport?: boolean }>({});
 
   const availableTags = ['Nghỉ dưỡng', 'Khám phá', 'Sống ảo', 'Văn hóa', 'Ẩm thực', 'Biển đảo', 'Thiên nhiên'];
 
@@ -376,7 +378,7 @@ export default function Step1Survey({ onNext, initialData }: Step1Props) {
               setTimeout(() => setErrors({}), 1000);
               return;
             }
-            onNext({ budget, transport, startDate, endDate, destinations, who, tags, numLocations });
+            onNext({ budget, transport: transport as any, startDate, endDate, destinations, who, tags, numLocations });
           }}
           className="px-10 py-4 bg-gradient-to-r from-[#ff0050] to-rose-600 rounded-xl font-black text-lg tracking-wider hover:scale-105 transition-transform shadow-[0_0_30px_rgba(255,0,80,0.4)]"
         >

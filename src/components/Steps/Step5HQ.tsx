@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import type { LocationKnowledgeDTO, ItineraryDTO, ItineraryActivity, ItineraryDay } from '../../types/dto';
+import type { LocationKnowledgeDTO, ItineraryDTO } from '../../types/dto';
 import GoogleMapViewer from '../Map/GoogleMapViewer';
 import ragDatabase from '../../data';
 import ragTransport from '../../data/rag_transport.json';
@@ -22,12 +22,12 @@ interface Step5Props {
   transportMode: string;
   numPeople?: number;
   metrics: { timeSaved: number; distanceOptimized: number; co2Reduced: number };
-  weatherState: 'Sunny' | 'Storm';
+  weatherState: 'Sunny' | 'Rainy' | 'Storm';
   onSimulateStorm: () => void;
   onReset: () => void;
 }
 
-export default function Step5HQ({ itinerary, currentLocations: initialLocations, budget, days, transportMode: initialTransport, numPeople = 2, metrics, weatherState: initialWeather, onSimulateStorm, onReset }: Step5Props) {
+export default function Step5HQ({ itinerary, currentLocations: initialLocations, budget, days, transportMode: initialTransport, numPeople = 2, metrics: _metrics, weatherState: initialWeather, onSimulateStorm, onReset }: Step5Props) {
   const [locations, setLocations] = useState<LocationKnowledgeDTO[]>(initialLocations);
   const [activeItinerary, setActiveItinerary] = useState<ItineraryDTO | null>(itinerary);
   const [weather, setWeather] = useState(initialWeather);
@@ -276,7 +276,7 @@ export default function Step5HQ({ itinerary, currentLocations: initialLocations,
       let originalTotal = 0;
       let curr = currentHotel;
       unvisited.forEach(act => {
-        const actLoc = currentLocs.find(l => l.id === act.id) || ragDatabase.find(l => l.id === act.id);
+        const actLoc = (currentLocs.find(l => l.id === act.id) || ragDatabase.find(l => l.id === act.id)) as LocationKnowledgeDTO;
         if (actLoc) {
           originalTotal += getDistance(curr.lat, curr.lng, actLoc.lat, actLoc.lng);
           curr = actLoc;
@@ -295,7 +295,7 @@ export default function Step5HQ({ itinerary, currentLocations: initialLocations,
           
           for (let i = 0; i < perm.length; i++) {
             const act = perm[i];
-            const actLoc = currentLocs.find(l => l.id === act.id) || ragDatabase.find(l => l.id === act.id);
+            const actLoc = (currentLocs.find(l => l.id === act.id) || ragDatabase.find(l => l.id === act.id)) as LocationKnowledgeDTO;
             if (actLoc) {
               currentTotal += getDistance(currentLoc.lat, currentLoc.lng, actLoc.lat, actLoc.lng);
               currentLoc = actLoc;
@@ -328,7 +328,7 @@ export default function Step5HQ({ itinerary, currentLocations: initialLocations,
           });
           const nextAct = unv.splice(nearestIdx, 1)[0];
           optimizedActs.push(nextAct);
-          const nextLoc = currentLocs.find(l => l.id === nextAct.id) || ragDatabase.find(l => l.id === nextAct.id);
+          const nextLoc = (currentLocs.find(l => l.id === nextAct.id) || ragDatabase.find(l => l.id === nextAct.id)) as LocationKnowledgeDTO;
           if (nextLoc) currentLoc = nextLoc;
         }
         
@@ -336,7 +336,7 @@ export default function Step5HQ({ itinerary, currentLocations: initialLocations,
         let nnTotal = 0;
         let nnLoc = currentHotel;
         optimizedActs.forEach(act => {
-          const actLoc = currentLocs.find(l => l.id === act.id) || ragDatabase.find(l => l.id === act.id);
+          const actLoc = (currentLocs.find(l => l.id === act.id) || ragDatabase.find(l => l.id === act.id)) as LocationKnowledgeDTO;
           if (actLoc) {
             nnTotal += getDistance(nnLoc.lat, nnLoc.lng, actLoc.lat, actLoc.lng);
             nnLoc = actLoc;
@@ -675,7 +675,7 @@ export default function Step5HQ({ itinerary, currentLocations: initialLocations,
     onSimulateStorm();
   };
 
-  const processSuggestion = async (intent: string, dayIndex: number, timeStr: string, rawQuery: string = '') => {
+  const processSuggestion = async (intent: string, dayIndex: number, _timeStr: string, rawQuery: string = '') => {
     addLog('THINK (Orchestrator)', `Tìm kiếm địa điểm (Intent: ${intent})...`);
     
     let mockDataList: LocationKnowledgeDTO[] = [];
@@ -821,7 +821,7 @@ export default function Step5HQ({ itinerary, currentLocations: initialLocations,
         let currentLoc = hotel;
         day.activities.forEach(act => {
           if (!act.canceled) {
-            const loc = locations.find(l => l.id === act.id) || ragDatabase.find(l => l.id === act.id);
+            const loc = (locations.find(l => l.id === act.id) || ragDatabase.find(l => l.id === act.id)) as LocationKnowledgeDTO;
             if (loc && currentLoc) {
               const dist = getDistance(currentLoc.lat, currentLoc.lng, loc.lat, loc.lng);
               totalDist += dist;
@@ -2048,7 +2048,7 @@ export default function Step5HQ({ itinerary, currentLocations: initialLocations,
                     value={customForm.dayIdx}
                     onChange={e => setCustomForm({...customForm, dayIdx: parseInt(e.target.value)})}
                   >
-                    {activeItinerary?.map((d, i) => <option key={i} value={i}>Ngày {i + 1}</option>)}
+                    {activeItinerary?.map((_, i) => <option key={i} value={i}>Ngày {i + 1}</option>)}
                   </select>
                 </div>
                 <div className="flex-1">

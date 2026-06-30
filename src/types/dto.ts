@@ -30,6 +30,7 @@ export interface LocationKnowledgeDTO {
     imageUrl?: string;
     tiktokLink?: string;
   };
+  tags?: string[];
 }
 
 export interface SurveyDTO {
@@ -46,6 +47,7 @@ export interface SurveyDTO {
   };
   tags: string[];
   numLocations: number;
+  days?: number;
 }
 
 export interface ItineraryActivity {

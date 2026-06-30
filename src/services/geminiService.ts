@@ -118,8 +118,8 @@ Chỉ trả về JSON, không có Markdown hay text khác.
 
 
 
-const locationListStr = ragDatabase
-  .filter(l => l.type === 'attraction' || l.type === 'food') // Focus on attractions and food
+const locationListStr = (ragDatabase as LocationKnowledgeDTO[])
+  .filter(l => l.type === 'attraction' || l.type === 'food_beverage') // Focus on attractions and food
   .map(l => `- ID: "${l.id}" (${l.name}): ${l.tags ? l.tags.join(', ') : 'Không có thẻ'}`)
   .join('\n');
 
@@ -364,9 +364,9 @@ Câu của người dùng: "${prompt}"
   return JSON.parse(textContent);
 }
 
-export async function chatWithStep2Agent(prompt: string, weather: string, budget: number, days: number, currentSelected: string[]): Promise<{ reply: string, suggestedLocationIds: string[] }> {
+export async function chatWithStep2Agent(prompt: string, weather: string, budget: number, days: number, currentSelected: string[]): Promise<{ reply: string, addLocationIds: string[], removeLocationIds: string[] }> {
   // Lọc lấy 1 số trường quan trọng từ RAG để tránh vượt giới hạn token
-  const simplifiedRag = ragDatabase.filter(d => d.type !== 'hotel').map(l => ({
+  const simplifiedRag = (ragDatabase as LocationKnowledgeDTO[]).filter(d => d.type !== 'hotel').map(l => ({
     id: l.id,
     name: l.name,
     type: l.type,
@@ -444,9 +444,9 @@ Trả về CHỈ một chuỗi JSON hợp lệ, không có markdown text. Dướ
     return JSON.parse(textContent);
   } catch (e: any) {
     if (e.message?.includes('API_RATE_LIMIT')) {
-      return { reply: "Hệ thống AI gợi ý địa điểm đang quá tải. Vui lòng chờ vài giây rồi thử lại.", suggestedLocationIds: [] };
+      return { reply: "Hệ thống AI gợi ý địa điểm đang quá tải. Vui lòng chờ vài giây rồi thử lại.", addLocationIds: [], removeLocationIds: [] };
     }
-    return { reply: "Đã xảy ra lỗi khi gọi AI. Vui lòng thử lại sau.", suggestedLocationIds: [] };
+    return { reply: "Đã xảy ra lỗi khi gọi AI. Vui lòng thử lại sau.", addLocationIds: [], removeLocationIds: [] };
   }
 }
 
@@ -503,7 +503,7 @@ hoặc
 }
 
 export async function searchPlacesByAgent(prompt: string, excludeIds: string[]): Promise<string[]> {
-  const simplifiedRag = ragDatabase.filter(d => d.type !== 'hotel').map(l => ({
+  const simplifiedRag = (ragDatabase as LocationKnowledgeDTO[]).filter(d => d.type !== 'hotel').map(l => ({
     id: l.id,
     name: l.name,
     type: l.type,
