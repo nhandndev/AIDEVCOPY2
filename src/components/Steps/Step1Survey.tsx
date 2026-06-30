@@ -149,7 +149,7 @@ export default function Step1Survey({ onNext, initialData }: Step1Props) {
           <p className="text-slate-400 mt-2">Cấu hình tham số lõi cho hệ thống Đa tác nhân.</p>
         </div>
         <div className="text-2xl font-black tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-[#ff0050] to-rose-600 mb-2">
-          VIVUAGENT - AGENT TRỢ LÝ DU LỊCH
+          Chill Travel QN
         </div>
       </div>
 

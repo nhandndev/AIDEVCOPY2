@@ -237,7 +237,7 @@ export default function Step3Negotiation({ survey, onNext, onBack, selectedDesti
         </div>
         <div className="flex flex-col items-end gap-3">
           <div className="text-2xl font-black tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-[#ff0050] to-rose-600">
-            VIVUAGENT
+            Chill Travel QN
           </div>
           <div className="flex gap-2">
             <button 

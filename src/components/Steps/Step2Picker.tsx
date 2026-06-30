@@ -243,7 +243,7 @@ export default function Step2Picker({ onNext, onBack, initialData, surveyData }:
         {/* Weather Control Panel */}
         <div className="flex flex-col items-end gap-2">
           <div className="text-2xl font-black tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-[#ff0050] to-rose-600 mb-1">
-            VIVUAGENT
+            Chill Travel QN
           </div>
           <div className="flex items-center gap-3">
             <div className="text-xs px-3 py-1 bg-[#1a1a1a] rounded-full border border-neon-cyan/30 text-neon-cyan flex items-center gap-2">

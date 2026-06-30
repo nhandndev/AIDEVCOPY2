@@ -13,7 +13,7 @@ interface AutonomyDashboardProps {
 export default function AutonomyDashboard({ weatherState, onSimulateStorm, onReset, metrics }: AutonomyDashboardProps) {
   return (
     <div className="bg-slate-800 p-6 rounded-lg shadow-xl border border-slate-700">
-      <h2 className="text-xl font-bold mb-4 text-neon-cyan">ViVuAgent Dashboard</h2>
+      <h2 className="text-xl font-bold mb-4 text-neon-cyan">Chill Travel QN Dashboard</h2>
       
       <div className="mb-6">
         <h3 className="text-sm text-slate-400 uppercase tracking-wider mb-2">Environment State</h3>
