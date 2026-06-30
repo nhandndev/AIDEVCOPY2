@@ -236,8 +236,8 @@ export default function Step2Picker({ onNext, onBack, initialData, surveyData }:
     <div className="flex flex-col h-screen bg-[#111] text-white p-6 overflow-hidden">
       <div className="flex justify-between items-end mb-6 border-b border-[#333] pb-4 shrink-0">
         <div>
-          <h2 className="text-3xl font-black tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-neon-cyan to-blue-500">BƯỚC 2: RAG POOL KHÁM PHÁ</h2>
-          <p className="text-slate-400 mt-2">Dữ liệu được các Agent quét và chấm điểm. Kiểm tra thời tiết để ra quyết định.</p>
+          <h2 className="text-3xl font-black tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-neon-cyan to-blue-500">BƯỚC 2: CHỌN ĐIỂM ĐẾN YÊU THÍCH</h2>
+          <p className="text-slate-400 mt-2">Dựa trên sở thích của bạn, đây là các điểm đến nổi bật nhất.</p>
         </div>
         
         {/* Weather Control Panel */}
@@ -537,7 +537,7 @@ export default function Step2Picker({ onNext, onBack, initialData, surveyData }:
           disabled={selectedDestinations.length === 0}
           className={`px-10 py-3 rounded-xl font-black text-lg tracking-wider transition-all ${selectedDestinations.length === 0 ? 'bg-[#333] text-gray-500 cursor-not-allowed' : 'bg-gradient-to-r from-[#ff0050] to-rose-600 hover:scale-105 shadow-[0_0_30px_rgba(255,0,80,0.4)]'}`}
         >
-          BƯỚC 3: CHỌN KHÁCH SẠN ➔
+          BƯỚC 3: CHỌN NƠI NGHỈ NGƠI ➔
         </button>
       </div>
     </div>

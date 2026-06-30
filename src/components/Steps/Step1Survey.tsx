@@ -145,7 +145,7 @@ export default function Step1Survey({ onNext, initialData }: Step1Props) {
     <div className="flex flex-col h-screen overflow-hidden bg-[#111] text-white p-8">
       <div className="flex justify-between items-end mb-8 border-b border-[#333] pb-4">
         <div>
-          <h2 className="text-3xl font-black tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-neon-cyan to-blue-500">BƯỚC 1: KHỞI TẠO</h2>
+          <h2 className="text-3xl font-black tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-neon-cyan to-blue-500">BƯỚC 1: THÔNG TIN CHUYẾN ĐI</h2>
           <p className="text-slate-400 mt-2">Cấu hình tham số lõi cho hệ thống Đa tác nhân.</p>
         </div>
         <div className="text-2xl font-black tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-[#ff0050] to-rose-600 mb-2">
@@ -382,7 +382,7 @@ export default function Step1Survey({ onNext, initialData }: Step1Props) {
           }}
           className="px-10 py-4 bg-gradient-to-r from-[#ff0050] to-rose-600 rounded-xl font-black text-lg tracking-wider hover:scale-105 transition-transform shadow-[0_0_30px_rgba(255,0,80,0.4)]"
         >
-          TIẾP TỤC: CHỌN ĐIỂM ĐẾN ➔
+          BƯỚC 2: CHỌN ĐIỂM ĐẾN YÊU THÍCH ➔
         </button>
       </div>
     </div>

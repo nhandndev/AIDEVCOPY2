@@ -96,7 +96,7 @@ export default function Step4Engine({ onNext, survey, selectedDestinations, hote
       
       <div className="relative z-10 flex flex-col h-full max-w-5xl mx-auto w-full">
         <div className="mb-10 text-center">
-          <h2 className="text-3xl font-black tracking-widest text-green-400 mb-2">MULTI-AGENT ENGINE RUNNING</h2>
+          <h2 className="text-3xl font-black tracking-widest text-green-400 mb-2">BƯỚC 4: TẠO LỊCH TRÌNH THÔNG MINH</h2>
           <p className="text-green-700">Compiling Itinerary Data via LLM Neural Network</p>
         </div>
 

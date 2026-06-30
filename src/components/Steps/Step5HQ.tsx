@@ -1261,7 +1261,7 @@ export default function Step5HQ({ itinerary, currentLocations: initialLocations,
   return (
     <div className="flex flex-col h-screen bg-[#0a0a0a] text-white overflow-hidden font-sans">
       <header className="p-4 bg-[#111] border-b border-[#333] shadow-md flex justify-between items-center z-10 shrink-0">
-        <h1 className="text-2xl font-black tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-neon-cyan to-blue-500">Chill Travel QN HQ</h1>
+        <h1 className="text-2xl font-black tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-neon-cyan to-blue-500">BƯỚC 5: LỊCH TRÌNH CỦA BẠN</h1>
         <div className="flex gap-4">
           <div className="px-4 py-1 rounded-full bg-green-900/30 text-green-400 border border-green-800 text-sm font-bold flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse"></span> Multi-Agent Active

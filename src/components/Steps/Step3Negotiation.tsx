@@ -232,8 +232,8 @@ export default function Step3Negotiation({ survey, onNext, onBack, selectedDesti
     <div className="flex flex-col h-screen bg-[#111] text-white p-6 overflow-hidden">
       <div className="mb-4 flex justify-between items-end border-b border-[#333] pb-4 shrink-0">
         <div>
-          <h2 className="text-3xl font-black tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-neon-cyan to-blue-500">BƯỚC 3: CỐ VẤN LƯU TRÚ</h2>
-          <p className="text-slate-400 mt-2">Đa tác nhân phân tích và đề xuất Bảng xếp hạng. Hãy chọn Khách sạn bạn muốn.</p>
+          <h2 className="text-3xl font-black tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-neon-cyan to-blue-500">BƯỚC 3: CHỌN NƠI NGHỈ NGƠI</h2>
+          <p className="text-slate-400 mt-2">Gợi ý khách sạn tốt nhất dựa trên các địa điểm bạn đã chọn và ngân sách.</p>
         </div>
         <div className="flex flex-col items-end gap-3">
           <div className="text-2xl font-black tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-[#ff0050] to-rose-600">
@@ -251,7 +251,7 @@ export default function Step3Negotiation({ survey, onNext, onBack, selectedDesti
               disabled={!chosenHotelId || isCalculating}
               className={`px-8 py-3 rounded-xl font-black text-lg tracking-wider transition-all ${!chosenHotelId || isCalculating ? 'bg-[#333] text-gray-500 cursor-not-allowed' : 'bg-gradient-to-r from-[#ff0050] to-rose-600 hover:scale-105 shadow-[0_0_30px_rgba(255,0,80,0.4)]'}`}
             >
-              TIẾN HÀNH LÊN LỊCH TRÌNH ➔
+              BƯỚC 4: TẠO LỊCH TRÌNH THÔNG MINH ➔
             </button>
           </div>
         </div>
